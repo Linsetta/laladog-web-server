@@ -30,18 +30,18 @@
 	<table>
 		<tr>
 			<td>
-				Cell 1, 1
+				Log In:
 			</td>
 			<td>
-				Cell 2, 1
+				 <button type="button">Click Me!</button> 
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Cell 1, 2
+				Say hello:
 			</td>
 			<td>
-				Cell 2, 2
+				 <button type="button">Click Me!</button> 
 			</td>
 		</tr>
 	</table>
