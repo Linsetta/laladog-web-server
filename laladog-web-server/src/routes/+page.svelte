@@ -1,7 +1,6 @@
 <script>
 
 
-
 </script>
 
 <svelte:head>
@@ -12,10 +11,10 @@
 <section>
 
 	<h1>
-	     LalaDog!
+	     LalaDog
 	</h1>
 
-    <img src="$lib/images/svelte-welcome.png">
+    <img src="/images/laladog-welcome.png">
 
 	<table>
 		<tr>
@@ -23,7 +22,7 @@
 				Log In:
 			</td>
 			<td>
-				 <button type="button">Log In!</button> 
+				 <button type="button">Click Me!</button> 
 			</td>
 		</tr>
 		<tr>
@@ -31,7 +30,7 @@
 				Say hello:
 			</td>
 			<td>
-				 <button type="button">Hello</button> 
+				 <button type="button">Click Me!</button> 
 			</td>
 		</tr>
 	</table>
