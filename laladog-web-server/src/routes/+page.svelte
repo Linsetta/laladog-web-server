@@ -5,8 +5,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Woof Woof!</title>
+	<meta name="description" content="Dog walking app" />
 </svelte:head>
 
 <section>
