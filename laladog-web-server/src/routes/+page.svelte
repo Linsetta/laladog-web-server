@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Woof Woof!</title>
+	<title>LalaDog!</title>
 	<meta name="description" content="Dog walking app" />
 </svelte:head>
 
