@@ -44,6 +44,7 @@ Web Server for LalaDog
 6. Commit and Push your Changes to Github
 
     git commit -am "a description of my chenges"
+    
     git push
     
 **How to Edit the Main Web Page Locally**
@@ -63,6 +64,7 @@ Web Server for LalaDog
 5. Commit and Push your Changes to Github
 
     git commit -am "a description of my chenges"
+    
     git push
 
 6. SSH into Droplet
