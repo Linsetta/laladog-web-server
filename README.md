@@ -23,7 +23,7 @@ Web Server for LalaDog
     npm run dev
 
 
-**How to Edit the Main Web Page**
+**How to Edit the Main Web Page Remotely**
 
 1. SSH into Droplet
 
@@ -41,7 +41,41 @@ Web Server for LalaDog
 
 5. Use Ctrl-X Ctrl-C to exit emacs
 
+6. Commit and Push your Changes to Github
 
+    git commit -am "a description of my chenges"
+    git push
+    
+**How to Edit the Main Web Page Locally**
+
+2. Change into Web Server Directory
+
+    cd Desktop/laladog-web-server/laladog-web-server
+
+3. Open Emacs to Edit the Web Page
+
+    emacs src/routes/+page.svelte
+
+4. Use Ctrl-X Ctrl-S to save
+
+5. Use Ctrl-X Ctrl-C to exit emacs
+
+6. Commit and Push your Changes to Github
+
+    git commit -am "a description of my chenges"
+    git push
+
+7. SSH into Droplet
+
+    ssh root@24.199.97.184
+
+8. Change into Web Server Directory
+
+    cd laladog-web-server/laladog-web-server
+
+9. Pull Changes from Github
+
+    git pull
 
 
 **Generate ssh key**
