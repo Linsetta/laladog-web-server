@@ -26,13 +26,16 @@ Web Server for LalaDog
 **How to Edit the Main Web Page**
 
 1. SSH into Droplet
-	ssh root@24.199.97.184
+
+    ssh root@24.199.97.184
 
 2. Change into Web Server Directory
-	cd laladog-web-server/laladog-web-server
+
+    cd laladog-web-server/laladog-web-server
 
 3. Open Emacs to Edit the Web Page
-	emacs src/routes/+page.svelte
+
+    emacs src/routes/+page.svelte
 
 4. Use Ctrl-X Ctrl-S to save
 
